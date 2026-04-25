@@ -1,2 +1,2 @@
 # pipeline
-A repo for practicising CI/CD pipelines
+A repo for practising CI/CD pipelines
